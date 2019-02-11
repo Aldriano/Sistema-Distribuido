@@ -1,4 +1,4 @@
-# Sistema Distribuido
+# Sistema Distribuído
 
 Este é o Git contêm informações básicas sobre a disciplina.
 

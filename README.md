@@ -25,7 +25,7 @@ O aluno poderá fazer algumas tarefas opcionais que o ajudaram na nota final.
 ||- Segurança |
 | 1.0 | NodeJS Enviar SMS/TTS |
 | 1.0 | Asterisk/PABX |
-
+|---|---|
 | 0.5 | Plataforma Firebase - Conceitos |
 | 0.5 | Cloud computing|
 | 0.5 | Arquitetura Elixir/Erlang) |

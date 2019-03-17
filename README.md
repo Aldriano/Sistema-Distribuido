@@ -15,9 +15,9 @@ O aluno poderá fazer algumas tarefas opcionais que o ajudaram na nota final.
 -----------
 ```
 1. O trabalho deverá:
-  - Ser encaminhado para o e-mail do professor em formato padrão WORD.
-  - Apresentar e discutir ideias, métodos, técnicas, processos e resultados.
-  - Selecionar métodos adequados a fim de permitir a duplicação do trabalho por outros.
+  * Ser encaminhado para o e-mail do professor em formato padrão WORD (modelo APS).
+  * Apresentar e discutir ideias, métodos, técnicas, processos e resultados, vantagens e desvantgens.
+  * Selecionar métodos adequados a fim de permitir a duplicação do trabalho por outros.
 ```  
 
 ### PROJETOS

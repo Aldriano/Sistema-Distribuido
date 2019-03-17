@@ -16,8 +16,10 @@ O aluno poderá fazer algumas tarefas opcionais que o ajudaram na nota final.
 ```
 1. O trabalho deverá:
   * Ser encaminhado para o e-mail do professor em formato padrão WORD (modelo APS).
+  * A aluno deverá agendar o dia da apresentação com o professor.
   * Apresentar e discutir ideias, métodos, técnicas, processos e resultados, vantagens e desvantgens.
   * Selecionar métodos adequados a fim de permitir a duplicação do trabalho por outros.
+  * A nota pode variar para **mais ou menos**, conforme a qualidade do conteúdo e apresentação.
 ```  
 
 ### PROJETOS
@@ -46,10 +48,5 @@ O aluno poderá fazer algumas tarefas opcionais que o ajudaram na nota final.
 | 0.5 | AWS IoT |
 | 0.5 | Golang |
 
-
-
-```
 ### OBSERVAÇÃO
-* A aluno deverá agendar o dia da apresentação com o professor.
-* A nota pode variar para **mais ou menos**, conforme a qualidade do conteúdo e apresentação.
-```  
+* Sujeito as alterações

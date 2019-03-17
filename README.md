@@ -25,9 +25,9 @@ O aluno poderá fazer algumas tarefas opcionais que o ajudaram na nota final.
 | 0.5 | Arquitetura Elixir/Erlang) |
 | 0.5 | NoSQL (MongoDB, Neo4j)  |
 | 1.0 | WebRTC e SIP   
-- Consumo de banda
-- Telefonando do browser para sua casa
-- Segurança |
+||- Consumo de banda
+||- Telefonando do browser para sua casa
+||- Segurança |
 | 0.5 | AWS IoT |
 
 

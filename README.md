@@ -11,9 +11,9 @@ de conhecimento/aprendizagem, de forma de incitar a melhoria de desempenho no cu
 ```
 O aluno poderá fazer algumas tarefas opcionais que o ajudaram na nota final. 
 
-```
 ### Orientações Gerais
 -----------
+```
 1. O trabalho deverá:
   - Ser encaminhado para o e-mail do professor em formato padrão WORD.
   - Apresentar e discutir ideias, métodos, técnicas, processos e resultados.

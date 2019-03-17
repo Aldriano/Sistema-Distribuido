@@ -11,7 +11,16 @@ de conhecimento/aprendizagem, de forma de incitar a melhoria de desempenho no cu
 ```
 O aluno poderá fazer algumas tarefas opcionais que o ajudaram na nota final. 
 
-## Projetos
+```
+### Orientações Gerais
+-----------
+1. O trabalho deverá:
+  - Ser encaminhado para o e-mail do professor em formato padrão WORD.
+  - Apresentar e discutir ideias, métodos, técnicas, processos e resultados.
+  - Selecionar métodos adequados a fim de permitir a duplicação do trabalho por outros.
+```  
+
+### PROJETOS
 -----------
 |Ponto | Assuntos |
 | --- | --- |
@@ -25,7 +34,8 @@ O aluno poderá fazer algumas tarefas opcionais que o ajudaram na nota final.
 ||- Segurança |
 | 1.0 | NodeJS Enviar SMS/TTS |
 | 1.0 | Asterisk/PABX |
-|---|---|
+| 1.0 | Virtualização (hardware/BIOS) |
+|||
 | 0.5 | Plataforma Firebase - Conceitos |
 | 0.5 | Cloud computing|
 | 0.5 | Arquitetura Elixir/Erlang) |
@@ -38,7 +48,7 @@ O aluno poderá fazer algumas tarefas opcionais que o ajudaram na nota final.
 
 
 
-
+```
 ### OBSERVAÇÃO
 * A aluno deverá agendar o dia da apresentação com o professor.
 * A nota pode variar para **mais ou menos**, conforme a qualidade do conteúdo e apresentação.

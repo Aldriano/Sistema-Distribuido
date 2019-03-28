@@ -20,6 +20,12 @@ O aluno poderá fazer algumas tarefas opcionais que o ajudarão na nota final.
   * Apresentar e discutir ideias, métodos, técnicas, processos e resultados, vantagens e desvantgens.
   * Selecionar métodos adequados a fim de permitir a duplicação do trabalho por outros.
   * A nota pode variar para **mais ou menos**, conforme a qualidade do conteúdo e apresentação.
+  * Os trabalhados deverão ser de comum acordo entre os os alunos.
+  * Será aceito o primeiro  trabalho que  chegar no email, entretanto se não estiver de acordo com os padrões solicitados, o mesmo será disponibilizado novamente para outros alunos.
+  * O aluno no qual o seu trabalho  não foi aceito terá que escolher outro tema.
+
+2. Total máximo de pontuação por aluno será de seis (06) pontos.
+
 ```  
 
 ### PROJETOS
@@ -47,6 +53,11 @@ O aluno poderá fazer algumas tarefas opcionais que o ajudarão na nota final.
 | 0.5 | Indústria 4.0 e IonT|
 | 0.5 | AWS IoT |
 | 0.5 | Golang |
+| 0.5 | Squid |
+| 1.0 | ADB (Android Debug Bridge)|
+| 1.0 | Android TV |
+| 1.0 | RxAndroid/RxJava |
+| 1.0 | Google - Cloud Vision API  |
 
 #### OBSERVAÇÃO
 * Sujeito a alterações.

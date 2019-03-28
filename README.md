@@ -61,8 +61,12 @@ O aluno poderá fazer algumas tarefas opcionais que o ajudarão na nota final.
 | 1.0 | Wireshark on the Raspberry Pi |
 | 0.5 | ChatBot com Python |
 | 1.0 | Drone Captura de imagens |
-
-
+| 0.5 | OpenKinect - Python |
+| 0.5 | AWS Ground Station |
+| 0.5 | BlockChain |
+| 1.5 | Controle de acesso RFID com Raspberry Pi |
+| 0.5 | Criptomoedas de IoT: IOTA |
+| 0.5 | Azure Sphere MT3620 |
 
 #### OBSERVAÇÃO
 * Sujeito a alterações.

@@ -56,7 +56,7 @@ O aluno poderá fazer algumas tarefas opcionais que o ajudarão na nota final.
 | 0.5 | Squid |
 | 1.0 | ADB (Android Debug Bridge)|
 | 1.0 | Android TV |
-| 1.0 | RxAndroid/RxJava |
+| 1.0 | ~RxAndroid/RxJava Conceiotos |
 | 1.0 | Google - Cloud Vision
 | 1.0 | Wireshark on the Raspberry Pi |
 | 0.5 | ChatBot com Python |

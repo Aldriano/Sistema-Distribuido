@@ -15,14 +15,14 @@ O aluno poderá fazer algumas tarefas opcionais que o ajudarão na nota final.
 -----------
 ```
 1. O trabalho deverá:
-  * Ser encaminhado para o e-mail do professor em formato padrão WORD (modelo APS).
-  * A aluno deverá agendar o dia da apresentação com o professor.
-  * Apresentar e discutir ideias, métodos, técnicas, processos e resultados, vantagens e desvantgens.
-  * Selecionar métodos adequados a fim de permitir a duplicação do trabalho por outros.
-  * A nota pode variar para **mais ou menos**, conforme a qualidade do conteúdo e apresentação.
-  * Os trabalhados deverão ser de comum acordo entre os os alunos.
-  * Será aceito o primeiro  trabalho que  chegar no email, entretanto se não estiver de acordo com os padrões solicitados, o mesmo será disponibilizado novamente para outros alunos.
-  * O aluno no qual o seu trabalho  não foi aceito terá que escolher outro tema.
+  a) Ser encaminhado para o e-mail do professor em formato padrão WORD (modelo APS).
+  b) A aluno deverá agendar o dia da apresentação com o professor.
+  c) Apresentar e discutir ideias, métodos, técnicas, processos e resultados, vantagens e desvantgens.
+  d) Selecionar métodos adequados a fim de permitir a duplicação do trabalho por outros.
+  e) A nota pode variar para **mais ou menos**, conforme a qualidade do conteúdo e apresentação.
+  f) Os trabalhados deverão ser de comum acordo entre os os alunos.
+  g) Será aceito o primeiro  trabalho que  chegar no email, entretanto se não estiver de acordo com os padrões solicitados, o mesmo será disponibilizado novamente para outros alunos.
+  h) O aluno no qual o seu trabalho  não foi aceito terá que escolher outro tema.
 
 2. Total máximo de pontuação por aluno será de seis (06) pontos.
 

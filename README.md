@@ -16,7 +16,7 @@ O aluno poderá fazer algumas tarefas opcionais que o ajudarão na nota final.
 ```
 1. O trabalho deverá:
   a) Ser encaminhado para o e-mail do professor em formato padrão WORD (modelo APS).
-  b) A aluno deverá agendar o dia da apresentação com o professor.
+  b) A aluno deverá agendar o dia da apresentação com o professor ( O projeto deverá estar funcionando).
   c) Apresentar e discutir ideias, métodos, técnicas, processos e resultados, vantagens e desvantgens.
   d) Selecionar métodos adequados a fim de permitir a duplicação do trabalho por outros.
   e) A nota pode variar para **mais ou menos**, conforme a qualidade do conteúdo e apresentação.

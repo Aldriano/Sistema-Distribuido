@@ -33,14 +33,14 @@ O aluno poderá fazer algumas tarefas opcionais que o ajudarão na nota final.
 |Ponto | Assuntos |
 | --- | --- |
 | 1.0 | Como criar um armazenamento em nuvem |
-| 1.0 | Docker (AWS, RedHat, etc)|
+| 1.0 | <s>Docker (AWS, RedHat, etc)</s>|
 | 1.0 | Plataforma Firebase - Analytics - AdMob |
 | 1.0 | Raspagem de Dados (Python ou PHP) |
 | 1.0 | WebRTC e SIP   
 ||- Consumo de banda
 ||- Telefonando do browser
 ||- Segurança |
-| 1.0 | NodeJS Enviar SMS/TTS |
+| 1.0 | <s>NodeJS Enviar SMS/TTS</s> |
 | 1.0 | Asterisk/PABX |
 | 1.0 | Virtualização (hardware/BIOS) |
 |||
